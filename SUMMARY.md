@@ -7,9 +7,9 @@
 * [Process](process.md)
     * [us](yourself.md)
     * [you](hello.md)
-    * me
+    * [me](me.md)
 * [joke](joke.md)
-    * boring
-    * sad
+    * [boring](boring.md)
+    * [sad](sad.md)
 * [Future](future.md)
 
